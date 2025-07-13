@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 951411602,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a846299b662316a7e72b5653cc48d14b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/eric/eric.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

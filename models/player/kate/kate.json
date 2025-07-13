@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -77,6 +78,7 @@
 			"type": 8
 		}
 	],
+	"date": 1456900786,
 	"events": [
 		{
 			"event": 5011,
@@ -200,7 +202,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4e179a9363a9eb1a6a4d8bb1004cc2a7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "kate.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

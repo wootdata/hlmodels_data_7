@@ -168,6 +168,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 6,
@@ -202,6 +203,7 @@
 			"type": 8
 		}
 	],
+	"date": 1551153244,
 	"events": [
 		{
 			"event": 2001,
@@ -311,7 +313,11 @@
 	],
 	"id": 1414743113,
 	"md5": "52f444a3fec54b219ce14678f8ef0413",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "barney.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

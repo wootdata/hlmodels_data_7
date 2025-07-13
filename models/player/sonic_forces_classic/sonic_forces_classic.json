@@ -33,6 +33,7 @@
 			"name": "Classic_Sonic_Forces"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1640634797,
 	"events": [
 		{
 			"event": 2001,
@@ -190,7 +192,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a70d904b420d948135e3a953d11d9a53",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Joshua\\Desktop\\Nueva carpeta\\Sonic_Forces_Classic.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

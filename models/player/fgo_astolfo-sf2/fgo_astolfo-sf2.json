@@ -113,6 +113,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -171,6 +172,7 @@
 			"type": 8
 		}
 	],
+	"date": 1633742039,
 	"events": [
 		{
 			"event": 2001,
@@ -280,7 +282,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fcf6edc17e0b8601ca38c689554da630",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Danara\\Desktop\\Nueva carpeta\\FGO_Astolfo-SF2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

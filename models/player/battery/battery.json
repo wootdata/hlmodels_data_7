@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1620147667,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "13598ebd912135f00bd39f4dea1a06bc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "battery.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

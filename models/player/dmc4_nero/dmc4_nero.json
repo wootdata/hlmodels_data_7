@@ -83,6 +83,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 22,
@@ -117,6 +118,7 @@
 			"type": 8
 		}
 	],
+	"date": 1596390989,
 	"events": [
 		{
 			"event": 2001,
@@ -226,7 +228,11 @@
 	],
 	"id": 1414743113,
 	"md5": "758e6af49a1ded3219ef03818f36aa8f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\pc\\Desktop\\dmc4_nero\\dmc4_nero.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -38,6 +38,7 @@
 			"name": "nanosuit2"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -72,6 +73,7 @@
 			"type": 8
 		}
 	],
+	"date": 1301279708,
 	"events": [
 		{
 			"event": 2001,
@@ -181,7 +183,11 @@
 	],
 	"id": 1414743113,
 	"md5": "355825a77ff130bf1ef81594323b7b1f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\temp\\tron\\tron2011.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
