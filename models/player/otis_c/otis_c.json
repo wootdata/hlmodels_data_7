@@ -178,7 +178,7 @@
 	"modid": 2,
 	"name": "C:\\sierra\\half-life\\gearbox\\models\\player\\DM_Otis\\DM_Otis.mdl",
 	"preview": true,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
