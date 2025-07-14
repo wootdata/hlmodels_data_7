@@ -175,6 +175,7 @@
 	"md5": "a2745c7280bde30125dc264d828fdbe5",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/mdls/biker.mdl",
 	"preview": true,
 	"readme": false,

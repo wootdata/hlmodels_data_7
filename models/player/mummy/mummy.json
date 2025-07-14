@@ -180,6 +180,7 @@
 	"md5": "8b9a7184ae20cd57efcc443a4ac9d581",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Gordon/Gordon.mdl",
 	"preview": true,
 	"readme": false,

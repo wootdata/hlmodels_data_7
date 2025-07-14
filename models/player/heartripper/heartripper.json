@@ -175,6 +175,7 @@
 	"md5": "1ca6fd61edff31442b9b72bad6a4b0b1",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/Hgrunt/Hgrunt.mdl",
 	"preview": true,
 	"readme": false,

@@ -180,6 +180,7 @@
 	"md5": "dd9aaf05deae3d64d883b954de9776f5",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/obi06/obi06.mdl",
 	"preview": false,
 	"readme": false,

@@ -175,6 +175,7 @@
 	"md5": "a846299b662316a7e72b5653cc48d14b",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/eric/eric.mdl",
 	"preview": true,
 	"readme": false,
