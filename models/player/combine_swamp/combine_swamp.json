@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 20,
+			"bone": 19,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 19,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 17,
+			"bone": 19,
 			"name": "",
 			"type": 0
 		}
@@ -25,9 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "body",
-					"polys": 3132,
-					"verts": 1625
+					"name": "body1",
+					"polys": 1672,
+					"verts": 871
 				}
 			],
 			"name": "body"
@@ -35,18 +30,18 @@
 		{
 			"models": [
 				{
-					"name": "head3",
-					"polys": 795,
-					"verts": 429
+					"name": "body2",
+					"polys": 3010,
+					"verts": 1538
 				}
 			],
-			"name": "head"
+			"name": "body"
 		}
 	],
 	"colorable": false,
 	"controllers": [
 		{
-			"bone": 8,
+			"bone": 7,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -54,7 +49,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 9,
+			"bone": 8,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -62,7 +57,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 10,
+			"bone": 9,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -70,7 +65,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 11,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -78,7 +73,7 @@
 			"type": 8
 		}
 	],
-	"date": 1250349814,
+	"date": 1301985752,
 	"events": [
 		{
 			"event": 2001,
@@ -184,27 +179,13 @@
 			"options": "40",
 			"sequence": 52,
 			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 1,
-			"options": "5",
-			"sequence": 66,
-			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 1,
-			"options": "5",
-			"sequence": 68,
-			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "bf22019c1edb97aa1f50155bf48467fb",
+	"md5": "c14cc9437c11469139972f31ba469d7f",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "kate.mdl",
+	"name": "barney.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -595,7 +576,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 907448,
+	"size": 577260,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -614,20 +595,16 @@
 			"parent": 2
 		}, 
 		{
-			"name": "Bip01 L Foot",
-			"parent": 3
-		}, 
-		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 5
+			"parent": 4
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 6
+			"parent": 5
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -635,55 +612,59 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 8
+			"parent": 7
 		}, 
 		{
 			"name": "Bip01 Spine2",
-			"parent": 9
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 Spine3",
-			"parent": 10
+			"parent": 9
 		}, 
 		{
 			"name": "Bip01 Neck",
-			"parent": 11
+			"parent": 10
 		}, 
 		{
 			"name": "Bip01 L Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 R Arm",
-			"parent": 12
+			"parent": 11
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 13
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 15
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 R Arm1",
 			"parent": 14
 		}, 
 		{
+			"name": "Bip01 R Arm",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 16
+		}, 
+		{
 			"name": "Bip01 R Arm2",
-			"parent": 18
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 19
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 3
 		}, 
 		{
 			"name": "Bip01 Head",
-			"parent": 12
+			"parent": 11
 		}
 	],
 	"skins": 1,
@@ -691,39 +672,9 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 509,
-			"name": "Kate_body.bmp",
-			"width": 504
-		}, 
-		{
-			"flags": 0,
-			"height": 254,
-			"name": "Kate_pants.bmp",
-			"width": 380
-		}, 
-		{
-			"flags": 0,
-			"height": 188,
-			"name": "Kate_glove.bmp",
-			"width": 380
-		}, 
-		{
-			"flags": 0,
-			"height": 127,
-			"name": "Kate_id.bmp",
-			"width": 252
-		}, 
-		{
-			"flags": 0,
-			"height": 95,
-			"name": "Kate_blue_beret.bmp",
-			"width": 124
-		}, 
-		{
-			"flags": 0,
-			"height": 253,
-			"name": "Kate_head.bmp",
-			"width": 504
+			"height": 512,
+			"name": "combinesoldiersheet.bmp",
+			"width": 512
 		}
 	],
 	"version": 10
