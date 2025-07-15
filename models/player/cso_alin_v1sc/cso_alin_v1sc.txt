@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cso_alin
+Source Model Hash : ed65fcba14dc394dd3e7d53dac227463
+Source Model Date : 1579695883 (2020/01/22)
+
+Ported Model Name : cso_alin_v1sc
+Ported Model Hash : 92ca49f17a19dcd016fbe98f0a77e8f2
+Ported Model Date : 1752491553 (2025/07/14)

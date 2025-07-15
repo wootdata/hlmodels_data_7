@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fallout_alien
+Source Model Hash : 7e56517024fdf99b7927f7cf1a0e1d2e
+Source Model Date : 1478177422 (2016/11/03)
+
+Ported Model Name : fallout_alien_v1sc
+Ported Model Hash : cb99ff742fc280e0b6f4bd8f82520b1d
+Ported Model Date : 1752491643 (2025/07/14)

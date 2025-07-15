@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : josias
+Source Model Hash : 811776011a8fb459e22c34b6e4404232
+Source Model Date : 1263931102 (2010/01/19)
+
+Ported Model Name : josias_v1sc
+Ported Model Hash : 02508a0e7bdd968846da154f24614307
+Ported Model Date : 1752491865 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lodarn
+Source Model Hash : 5ec67de94cebd1cfee5930581177e902
+Source Model Date : 1264152726 (2010/01/22)
+
+Ported Model Name : lodarn_v1sc
+Ported Model Hash : 120df6bcd10a1f639eea5a4aba29b020
+Ported Model Date : 1752491956 (2025/07/14)

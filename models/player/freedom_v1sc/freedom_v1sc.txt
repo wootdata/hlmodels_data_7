@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : freedom
+Source Model Hash : 1ec021cbc67067335e1332569f77dd93
+Source Model Date : 1462729337 (2016/05/08)
+
+Ported Model Name : freedom_v1sc
+Ported Model Hash : f5e2d46502e18e02e9f7d06af57930c4
+Ported Model Date : 1752491661 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tigger
+Source Model Hash : f3897d32f895741bc3d32129066d5199
+Source Model Date : 1591338259 (2020/06/04)
+
+Ported Model Name : tigger_v1sc
+Ported Model Hash : 4fd62e8395a4a5d37d472671265dd39f
+Ported Model Date : 1752492422 (2025/07/14)

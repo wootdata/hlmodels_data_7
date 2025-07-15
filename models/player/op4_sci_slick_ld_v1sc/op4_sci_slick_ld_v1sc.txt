@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : op4_scientist_slick_ld
+Source Model Hash : e165bfc59b09a5e6ad66e64b8c2a1eed
+Source Model Date : 1603067551 (2020/10/18)
+
+Ported Model Name : op4_sci_slick_ld_v1sc
+Ported Model Hash : 0c852ee5b08108968802f94b66fa490b
+Ported Model Date : 1752492124 (2025/07/14)

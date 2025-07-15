@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : papu2017
+Source Model Hash : 87c0b96c0a55f0026e54c5068ddf61a7
+Source Model Date : 1489179636 (2017/03/10)
+
+Ported Model Name : papu2017_v1sc
+Ported Model Hash : b7c55abb35aa1fbd78985dcc31663beb
+Ported Model Date : 1752492143 (2025/07/14)

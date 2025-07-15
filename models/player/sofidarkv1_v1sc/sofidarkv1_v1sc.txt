@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sofidarkv1
+Source Model Hash : 1194ceeb85c41ac71e3ab80f9796f6f5
+Source Model Date : 1434817621 (2015/06/20)
+
+Ported Model Name : sofidarkv1_v1sc
+Ported Model Hash : 5e0945ef4cdee3bb328f705d09503c62
+Ported Model Date : 1752492288 (2025/07/14)

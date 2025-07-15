@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : optimusprime
+Source Model Hash : 6f23b41b6dfa16f361f17121ebca6b9e
+Source Model Date : 1445951152 (2015/10/27)
+
+Ported Model Name : optimusprime_v1sc
+Ported Model Hash : 330812cdaf3341db598fdee4d1150bc4
+Ported Model Date : 1752492129 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_touhou_reimu_mmd
+Source Model Hash : 9fec83e622c7bfe1303640fff1efc3d5
+Source Model Date : 1553442020 (2019/03/24)
+
+Ported Model Name : 2d_2hu_reimu_mmd_v1sc
+Ported Model Hash : 123b64965a486f96fb10c608018bdec0
+Ported Model Date : 1752491320 (2025/07/14)

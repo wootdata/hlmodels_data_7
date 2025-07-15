@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mgs4_pmc6
+Source Model Hash : 95ec9eb7a2ca7503abc8203269e9d378
+Source Model Date : 1235931138 (2009/03/01)
+
+Ported Model Name : mgs4_pmc6_v1sc
+Ported Model Hash : 8dc588ebca7ac325a8a30a5394470e45
+Ported Model Date : 1752492009 (2025/07/14)

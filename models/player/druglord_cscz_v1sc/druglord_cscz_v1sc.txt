@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : druglord_cscz
+Source Model Hash : 2d8bd8f68158c1fa71b2008fbea9d350
+Source Model Date : 1269246414 (2010/03/22)
+
+Ported Model Name : druglord_cscz_v1sc
+Ported Model Hash : ef63718473d6eb1fbf74c91e90f50057
+Ported Model Date : 1752491623 (2025/07/14)

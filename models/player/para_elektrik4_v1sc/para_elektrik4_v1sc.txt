@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : para_elektrik4
+Source Model Hash : 61bff1f717a9c004023805506712cf47
+Source Model Date : 1265775206 (2010/02/09)
+
+Ported Model Name : para_elektrik4_v1sc
+Ported Model Hash : ee9d11ade1e9964dcf7dafa66efa5cc6
+Ported Model Date : 1752492146 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_obiwan
+Source Model Hash : c7728e44c8c499c654f62e561c104047
+Source Model Date : 1553775824 (2019/03/28)
+
+Ported Model Name : 2d_obiwan_v1sc
+Ported Model Hash : bbf03fe89967b48ec3da10c79fea1e1d
+Ported Model Date : 1752491317 (2025/07/14)

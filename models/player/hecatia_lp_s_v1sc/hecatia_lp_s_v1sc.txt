@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hecatia_lp_s
+Source Model Hash : 526dcc0304f945a8981eb518f22104a6
+Source Model Date : 1677700885 (2023/03/01)
+
+Ported Model Name : hecatia_lp_s_v1sc
+Ported Model Hash : 6da3ca0087a514e874ce19c71e431737
+Ported Model Date : 1752491780 (2025/07/14)

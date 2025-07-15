@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : xan_mk_i_red_v2
+Source Model Hash : 3beaa4caabbdb110950c42b222458cf1
+Source Model Date : 1582898935 (2020/02/28)
+
+Ported Model Name : xan_mk_i_red_v2sc
+Ported Model Hash : c45e369a82fdfbc4145143fbc73ee2e1
+Ported Model Date : 1752492515 (2025/07/14)

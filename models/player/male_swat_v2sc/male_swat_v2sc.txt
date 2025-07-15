@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : male_swat_v2
+Source Model Hash : dd97c2ba2160bd117c37a31e947f44df
+Source Model Date : 1456437874 (2016/02/25)
+
+Ported Model Name : male_swat_v2sc
+Ported Model Hash : 21707c8de4281c5a6182885aa23ebd04
+Ported Model Date : 1752491983 (2025/07/14)

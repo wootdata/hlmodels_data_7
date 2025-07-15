@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : trumpenstein
+Source Model Hash : 5e9908621ffb617d4fd1046b7e2dd6d9
+Source Model Date : 1538228836 (2018/09/29)
+
+Ported Model Name : trumpenstein_v1sc
+Ported Model Hash : 357a553ec396f7bad1f5063cd744dae2
+Ported Model Date : 1752492460 (2025/07/14)

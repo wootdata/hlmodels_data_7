@@ -1,0 +1,18 @@
+Playermodel made by: TayKlor (From HLDM-BR.NET)
+3D Model made by: ThatAverageJoe(joewood0203) https://sketchfab.com/joewood0203
+Character design by: InnerSloth
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : amongus_crewmate
+Source Model Hash : 394386b54117999adead814b3b772f67
+Source Model Date : 1604037481 (2020/10/29)
+
+Ported Model Name : amongus_crewmate_v1sc
+Ported Model Hash : c792818e45a1a7711dea3d92d5948c88
+Ported Model Date : 1752491359 (2025/07/14)

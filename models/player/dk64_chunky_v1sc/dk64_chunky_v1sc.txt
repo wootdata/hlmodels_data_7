@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dk64_chunky
+Source Model Hash : eb97efc2c3967492201360c2654be85a
+Source Model Date : 1579167780 (2020/01/16)
+
+Ported Model Name : dk64_chunky_v1sc
+Ported Model Hash : 88a0794ed9c8844f08bdc40f690bba17
+Ported Model Date : 1752491601 (2025/07/14)

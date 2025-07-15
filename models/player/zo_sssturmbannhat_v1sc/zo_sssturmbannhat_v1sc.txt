@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zombie_sssturmbannhat
+Source Model Hash : 630efb88205399f387f6064a6afa7e2d
+Source Model Date : 1268445296 (2010/03/12)
+
+Ported Model Name : zo_sssturmbannhat_v1sc
+Ported Model Hash : 03b82a83395f427bc67400cf3da25bb9
+Ported Model Date : 1752492534 (2025/07/14)

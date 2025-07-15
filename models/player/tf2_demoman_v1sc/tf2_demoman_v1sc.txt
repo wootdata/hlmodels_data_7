@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tf2_demoman
+Source Model Hash : 5d053a21cffb7f17af8a593621f49fb0
+Source Model Date : 1350446198 (2012/10/16)
+
+Ported Model Name : tf2_demoman_v1sc
+Ported Model Hash : be678b53a1ee561689023cb617f1feec
+Ported Model Date : 1752492403 (2025/07/14)

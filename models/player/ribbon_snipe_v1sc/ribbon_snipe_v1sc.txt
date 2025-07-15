@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ribbon_snipe
+Source Model Hash : b14f691b5aac6bd64291c7b63b74bd03
+Source Model Date : 1269356384 (2010/03/23)
+
+Ported Model Name : ribbon_snipe_v1sc
+Ported Model Hash : b5f7754f1b0ce8f573afe7cc0019f4d8
+Ported Model Date : 1752492215 (2025/07/14)

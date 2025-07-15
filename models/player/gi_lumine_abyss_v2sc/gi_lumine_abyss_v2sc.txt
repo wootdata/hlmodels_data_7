@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gi_lumine_abyss_ord_v2
+Source Model Hash : 87e58e3205e86fc6b20b0d451aab29ac
+Source Model Date : 1698616204 (2023/10/29)
+
+Ported Model Name : gi_lumine_abyss_v2sc
+Ported Model Hash : cbffa39bda783d820fd61c0c1bc1ecd7
+Ported Model Date : 1752491718 (2025/07/14)

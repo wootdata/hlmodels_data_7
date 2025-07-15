@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vitani_v2
+Source Model Hash : ae60d7d37576aa9c0aa5df9f15a61b27
+Source Model Date : 1523732562 (2018/04/14)
+
+Ported Model Name : vitani_v2sc
+Ported Model Hash : 48b4da7168f410d1d9b2dc850434a4be
+Ported Model Date : 1752492494 (2025/07/14)

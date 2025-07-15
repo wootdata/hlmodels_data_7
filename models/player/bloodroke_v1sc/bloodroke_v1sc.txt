@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bloodroke
+Source Model Hash : fc716508e07a654fb7960d7f57a93c53
+Source Model Date : 1468528974 (2016/07/14)
+
+Ported Model Name : bloodroke_v1sc
+Ported Model Hash : e1035215907d613691043a7d6c48565f
+Ported Model Date : 1752491436 (2025/07/14)

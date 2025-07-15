@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pumpkin_v2
+Source Model Hash : 44e0c826933b1cac4c1d55df999bae66
+Source Model Date : 1591053922 (2020/06/01)
+
+Ported Model Name : pumpkin_v2sc
+Ported Model Hash : fe00d66139751da9246ff848a71f9cc1
+Ported Model Date : 1752492172 (2025/07/14)

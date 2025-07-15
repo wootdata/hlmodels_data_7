@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : osama
+Source Model Hash : 33e5de8a9a1e7392f984e0a21b1b114d
+Source Model Date : 1264765330 (2010/01/29)
+
+Ported Model Name : osama_v1sc
+Ported Model Hash : 5f5d55021aeaece5ee25e7ce5964b1f0
+Ported Model Date : 1752492133 (2025/07/14)

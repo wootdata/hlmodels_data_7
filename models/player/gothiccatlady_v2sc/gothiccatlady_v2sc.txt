@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gothiccatlady_v2
+Source Model Hash : 5b034692ea0996f4af8a7e1ab9b7bf4f
+Source Model Date : 1591308626 (2020/06/04)
+
+Ported Model Name : gothiccatlady_v2sc
+Ported Model Hash : 4f462a975408ca42f4895c93125ba5e7
+Ported Model Date : 1752491736 (2025/07/14)

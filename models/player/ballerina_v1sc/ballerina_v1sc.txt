@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ballerina
+Source Model Hash : 3b6ad64802758f4f41fbc58a2a8c61cb
+Source Model Date : 1269018254 (2010/03/19)
+
+Ported Model Name : ballerina_v1sc
+Ported Model Hash : 5fb5d2a49dada7db2c134221f0cf18e1
+Ported Model Date : 1752491398 (2025/07/14)

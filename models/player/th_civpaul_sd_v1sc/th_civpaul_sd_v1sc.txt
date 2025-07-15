@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : th_civpaul_sd
+Source Model Hash : 3322cae1ca0bf689eb27e4368637be42
+Source Model Date : 1543540334 (2018/11/29)
+
+Ported Model Name : th_civpaul_sd_v1sc
+Ported Model Hash : c15c4002d9af607a1eef4bdb1f8f0af5
+Ported Model Date : 1752492415 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ricochet_female
+Source Model Hash : 09483925f4f32e02d8e93f008e1c8cc8
+Source Model Date : 1643299236 (2022/01/27)
+
+Ported Model Name : ricochet_female_v1sc
+Ported Model Hash : bf478fa4614cbf3fa84cd87828c6fe4c
+Ported Model Date : 1752492216 (2025/07/14)

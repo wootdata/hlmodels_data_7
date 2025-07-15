@@ -1,0 +1,29 @@
+insetion1、insetion2にて襲ってくる敵のダイバー兵です。
+意外と好きな敵なので作っちゃったような。
+昔からFPSとかで度々海中ステージ作っては大失敗してる私にとってinsertionは衝撃でした。
+失敗例はMAPソースを見ていただければ分かると思います。
+嗚呼、オーシャンハンター(セガのガンシュー)Wiiとかで出たらWiiごと買っちゃうのに。
+あのファンタジーな絵柄とリアルなポリゴンのギャップがたまらんのに。
+でもラスボスの最終攻撃は僅か10秒程でライフ3つが空になるド鬼畜連コイン地獄。
+最後の最後まで4コン位で行ったのに、ボスの目玉を撃ち抜く為にもう600円飛んだいい思い出。
+ついでにレールチェイス1&2もWiiで出たら万々歳なのに。
+そんな事言ったらガンブレードNYとかLAマシンガンズもやりたくなってきた。
+他のメーカーのも言えばオペレーションタイガーとかビーストバスターズセカンドナイトメアとか、
+魔斬　～MAZAN～とかのマイナー体感ゲーとかをじゃんじゃん移植して(ry
+
+どう見てもローポリ基盤フェチの変態です本当に(ry
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ins_scubagrunt
+Source Model Hash : ba2de4987c6009baae5a0eee803fb91d
+Source Model Date : 1263188462 (2010/01/10)
+
+Ported Model Name : ins_scubagrunt_v1sc
+Ported Model Hash : a6e6e29b9d517f6de594febab7c95a25
+Ported Model Date : 1752491845 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : femaleklingon_v2
+Source Model Hash : 1afdbdd9d56428d6a552ae2dade6ff04
+Source Model Date : 1583836578 (2020/03/10)
+
+Ported Model Name : femaleklingon_v2sc
+Ported Model Hash : 8609c204af39bd426d8ead7b71c27cd4
+Ported Model Date : 1752491648 (2025/07/14)

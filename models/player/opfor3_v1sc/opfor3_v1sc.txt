@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : opfor3
+Source Model Hash : ca5d3f05099ee66ca2855a4153098c70
+Source Model Date : 1264758603 (2010/01/29)
+
+Ported Model Name : opfor3_v1sc
+Ported Model Hash : 914772af38a26bf991f6b5d0c2ed4b39
+Ported Model Date : 1752492128 (2025/07/14)

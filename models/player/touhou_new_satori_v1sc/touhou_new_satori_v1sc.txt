@@ -1,0 +1,58 @@
+Credit:
+ .mqo modeling by kita
+
+ .smd convert by takedeppo.50cal ....(^^;)b yay
+
+
+//////// readme (GTASA skin mod) ///////////////////////////////////////////////////////////
+ＧＴＡＳＡ向けスキンＭＯＤ
+
+古明地さとり、リメイク＋＠
+
+制作：kita
+
+スキン制作８１作目。
+こいしちゃんを基に、さとりさんをリメイク。
+以前のモデルで気になっていた後頭部（うなじの生え際）と、ケーブルの太さも直したかったので。
+
+「さとりさん」成分が前にも増して強くなっているので、サディストなキャラ付けには合わないかも？
+ただし第３の目はちょっと怖くなりました。
+
+おまけとして、着物Ver.も作りました。
+明治っぽい着物…のつもりで作ったけど大正のイメージのが強いかもですねこれ。
+
+-----------------------------------------------------------------------
+
+DFFは2種。
+「～kimono」は着物Ver.です。
+
+TXDはそれぞれに表情差分。
+12種です。同梱のpngをご覧ください。
+
+導入方法はお手数ですがググってください。
+
+また、mqoファイルとgmaxファイル同梱です。
+なんなりとお使いください。
+
+-----------------------------------------------------------------------
+
+東方原作者の神主様と、ＧＴＡSAの生みの親・Ｒｏｃｋｓｔａｒ様に最大のリスペクトを。
+
+改変や動画使用はＯＫです。
+その際、強制はしませんが、下記のブログにでも知らせてくれると嬉しいです。
+→http://harumitama.blog24.fc2.com/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_new_satori
+Source Model Hash : 8a397ebd8ba92c8a68dd2c51c9ca671f
+Source Model Date : 1463578299 (2016/05/18)
+
+Ported Model Name : touhou_new_satori_v1sc
+Ported Model Hash : 8b3efe3823a358882e7d7ff8a794e805
+Ported Model Date : 1752492442 (2025/07/14)

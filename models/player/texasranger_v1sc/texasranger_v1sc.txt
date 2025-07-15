@@ -1,0 +1,70 @@
+==================================================================================
+
+Title              :Texas Ranger
+Filename           :Texasranger.mdl  and the Texasranger.bmp
+Author             :TTJ 
+Address            :ready2fight@crosswinds.net
+Homepage           :www.crosswinds.net/~ready2fight
+Description        :Half-life Deathmatch Model
+==================================================================================
+Description
+
+This is my first Model for Half-Life. It is the original drillinstructer but i 
+repaint the Model and so the texas ranger is born. He is very angry and do not like
+any person who cross his way so be carefully and if you see him coming RUN!!!!!.
+
+=================================================================================
+
+Construction
+
+Base               :Woody from toy story inspired me
+Editor used        :adobe photoshop 5.5, mdlv2
+Known Bugs         :a good joke
+Build Time         :3 days
+
+================================================================================
+
+Installation
+
+To play this Model, extract the file "texasranger.mdl and the texasranger.bmp"
+into your sierra\half-life\valve\models\player\texasranger directory and then 
+start the game. I hope you will have fun with it !!!
+
+================================================================================
+
+Last words
+
+This is my first Half-life Model and i would like it if someone sent
+me an E-Mail and write me how he like this model. 
+Thanks to valve for Half-life and Worldcraft, Crazy_Borg who helps me a lot 
+with Wordcraft,all the tester
+and to everyone who have played a Deathmatch with me.
+
+================================================================================
+Copyright and Permissions
+
+If the model is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 2000 TTJProductions, Germany
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : texasranger
+Source Model Hash : 72cd1e097f398c7646fb893a8b69d770
+Source Model Date : 1267352091 (2010/02/28)
+
+Ported Model Name : texasranger_v1sc
+Ported Model Hash : 74454f391b97898b0ae65fb6f5d14b76
+Ported Model Date : 1752492403 (2025/07/14)

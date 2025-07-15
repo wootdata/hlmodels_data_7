@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fp_eroku2018_v2
+Source Model Hash : 516aec89218b0238b9714f2ab3a2aa09
+Source Model Date : 1522189223 (2018/03/27)
+
+Ported Model Name : fp_eroku2018_v2sc
+Ported Model Hash : c776220e86499a187084ae8b5c93822d
+Ported Model Date : 1752491658 (2025/07/14)

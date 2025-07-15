@@ -1,0 +1,28 @@
+                         666
+
+    The number of this beast is 666.......
+    If I ever get the time I'll add wings and reanimate the model......
+   
+
+INSTALLATION:  UNZIP INTO  halflife\valve\models\player\666
+
+
+          MARQUIS   (m.haly@cwcom.net) 28/5/00
+
+          http://www.hlskins.free-online.co.uk/
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 666_v2
+Source Model Hash : 6c7d340904e9762eb902485fe6df8097
+Source Model Date : 1591133911 (2020/06/02)
+
+Ported Model Name : 666_v2sc
+Ported Model Hash : 329319337c2fa0a239ebb8a1dcff05b6
+Ported Model Date : 1752491324 (2025/07/14)

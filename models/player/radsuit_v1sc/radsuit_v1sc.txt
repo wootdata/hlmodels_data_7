@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : radsuit
+Source Model Hash : 0cdcc18449a37083124e27dbd1f3df4b
+Source Model Date : 1269243777 (2010/03/22)
+
+Ported Model Name : radsuit_v1sc
+Ported Model Hash : 79156a2de27cf51423149eabd50c338e
+Ported Model Date : 1752492184 (2025/07/14)

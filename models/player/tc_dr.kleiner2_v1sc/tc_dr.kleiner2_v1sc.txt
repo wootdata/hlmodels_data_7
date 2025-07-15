@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tc_alternat-dr.kleiner
+Source Model Hash : 8ba741a8260b885d86eb5abc59a7b1a4
+Source Model Date : 1582939804 (2020/02/28)
+
+Ported Model Name : tc_dr.kleiner2_v1sc
+Ported Model Hash : 5962ff8518519f5fe0ecef852b9f756f
+Ported Model Date : 1752492395 (2025/07/14)

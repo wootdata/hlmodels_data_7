@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jill_valentine
+Source Model Hash : 90032f686b4b0e5968966a063f203903
+Source Model Date : 1313111408 (2011/08/11)
+
+Ported Model Name : jill_valentine_v1sc
+Ported Model Hash : 5e7f9c5a97330f9e7daacd6ef99137b1
+Ported Model Date : 1752491862 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : [usmc]sgt_todd
+Source Model Hash : 9a3e0b5e406f55931710380976619ab3
+Source Model Date : 1542063457 (2018/11/12)
+
+Ported Model Name : [usmc]sgt_todd_v1sc
+Ported Model Hash : cb7254ed76a6124f25ffb2bb9bf147fa
+Ported Model Date : 1752492541 (2025/07/14)

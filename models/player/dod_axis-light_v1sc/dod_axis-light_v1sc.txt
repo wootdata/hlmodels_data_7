@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dod_axis-light
+Source Model Hash : 555316ff64c23a91af7e55682ea184ef
+Source Model Date : 1446340884 (2015/10/31)
+
+Ported Model Name : dod_axis-light_v1sc
+Ported Model Hash : a66592d9d2f904c43e762a692d04279f
+Ported Model Date : 1752491612 (2025/07/14)

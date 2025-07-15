@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dantemvc
+Source Model Hash : c496d36e070acf345e0edc4d80842901
+Source Model Date : 1436970055 (2015/07/15)
+
+Ported Model Name : dantemvc_v1sc
+Ported Model Hash : ce627742c68cd91319183be2ed299cd6
+Ported Model Date : 1752491578 (2025/07/14)

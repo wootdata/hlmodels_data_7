@@ -1,0 +1,31 @@
+  ---------------------
+  * GEOFF THE SNOWMAN *
+  ---------------------
+
+  This is a simple snowman model for half-life.
+
+  The bottom snow ball deforms when he walks which looks a bit messed
+  up but i couldn't be bothered to do new animations of assign it to 
+  just one of the legs.
+ 
+  Its still looks pretty cool though! I hope you enjoy my model, you 
+  can use it wherever you want aslong as i get credit for it.
+
+  cheers
+  
+  email - guitar_lova@hotmail.com
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : geoff_v2
+Source Model Hash : 7ae93928eb50623e8b514ad6c4c954b7
+Source Model Date : 1583045794 (2020/02/29)
+
+Ported Model Name : geoff_v2sc
+Ported Model Hash : 92e2b7b2180100f9b813b2957e07acab
+Ported Model Date : 1752491675 (2025/07/14)

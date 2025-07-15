@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jihaddesert_v2
+Source Model Hash : 1fcf3339c0c36e712fa2f4ecef032b59
+Source Model Date : 1583905092 (2020/03/10)
+
+Ported Model Name : jihaddesert_v2sc
+Ported Model Hash : 6b946b72dc5578faa5362628baa9d42c
+Ported Model Date : 1752491861 (2025/07/14)

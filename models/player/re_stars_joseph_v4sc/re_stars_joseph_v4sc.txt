@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re_stars_joseph_v4
+Source Model Hash : a31f588a38ed9e0bae318b7d0a79d2c1
+Source Model Date : 1584939080 (2020/03/22)
+
+Ported Model Name : re_stars_joseph_v4sc
+Ported Model Hash : ec48dd47d73fe1c52ea6bc7a362952d4
+Ported Model Date : 1752492211 (2025/07/14)

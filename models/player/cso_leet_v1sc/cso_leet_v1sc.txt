@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cso_leet
+Source Model Hash : b36c674d42d09f6e019d172639352f2d
+Source Model Date : 1230998908 (2009/01/03)
+
+Ported Model Name : cso_leet_v1sc
+Ported Model Hash : a178e677e7360000a12346e6034b3d50
+Ported Model Date : 1752491555 (2025/07/14)

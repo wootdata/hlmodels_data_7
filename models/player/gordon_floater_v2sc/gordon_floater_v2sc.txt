@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gordon_floater_new
+Source Model Hash : d9420badc8d8542a60bf788b36a124eb
+Source Model Date : 1488120744 (2017/02/26)
+
+Ported Model Name : gordon_floater_v2sc
+Ported Model Hash : f9810b4a4177f781f9f78bf1ee164342
+Ported Model Date : 1752491735 (2025/07/14)

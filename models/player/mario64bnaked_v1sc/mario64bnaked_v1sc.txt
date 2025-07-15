@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mario64bnaked
+Source Model Hash : 42dd5b27a74c47cabcf0b915bbaf4b12
+Source Model Date : 1624108570 (2021/06/19)
+
+Ported Model Name : mario64bnaked_v1sc
+Ported Model Hash : 5e5fa718dd55e351fcd73f6e5b6bde4c
+Ported Model Date : 1752491986 (2025/07/14)

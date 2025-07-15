@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : esf_gokussj
+Source Model Hash : 4081d317325093fbdffe4671c5c2f6ef
+Source Model Date : 1426953492 (2015/03/21)
+
+Ported Model Name : esf_gokussj_v1sc
+Ported Model Hash : e2c78953fe61d8d69ed2190b1a738368
+Ported Model Date : 1752491637 (2025/07/14)

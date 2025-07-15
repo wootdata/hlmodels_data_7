@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : marco_cartoon
+Source Model Hash : 486618cb97a59066eaaa1cba4aa66d48
+Source Model Date : 1579695556 (2020/01/22)
+
+Ported Model Name : marco_cartoon_v1sc
+Ported Model Hash : edc3a16d85c4066365e2ba7a9271c365
+Ported Model Date : 1752491985 (2025/07/14)

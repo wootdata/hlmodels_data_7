@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bolsonaromicto
+Source Model Hash : 0fa4eca4a50794c95f8b1a9c162425ee
+Source Model Date : 1541272913 (2018/11/03)
+
+Ported Model Name : bolsonaromicto_v1sc
+Ported Model Hash : d18abfb74a5105ae2703fd8923388cbd
+Ported Model Date : 1752491443 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : xenia
+Source Model Hash : 7ab02962e588b880e742f22ec719d50e
+Source Model Date : 1264531564 (2010/01/26)
+
+Ported Model Name : xenia_v1sc
+Ported Model Hash : df028f5d7bc1ff2f280d3a10d615a458
+Ported Model Date : 1752492516 (2025/07/14)

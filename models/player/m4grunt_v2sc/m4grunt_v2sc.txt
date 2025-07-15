@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : m4grunt_v2
+Source Model Hash : c9cf3d7dd2aa48aec821c17afd74d4e2
+Source Model Date : 1540686970 (2018/10/27)
+
+Ported Model Name : m4grunt_v2sc
+Ported Model Hash : d50fbbd756e105ba6d86507233cd8e12
+Ported Model Date : 1752491977 (2025/07/14)

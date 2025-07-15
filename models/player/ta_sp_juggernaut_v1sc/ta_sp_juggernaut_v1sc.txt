@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_special_juggernaut
+Source Model Hash : 5ec375014545f6d48ecea41425932c67
+Source Model Date : 1631858951 (2021/09/16)
+
+Ported Model Name : ta_sp_juggernaut_v1sc
+Ported Model Hash : 8fbc46e94da163f7685e68682af7566e
+Ported Model Date : 1752492392 (2025/07/14)

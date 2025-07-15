@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_miniblackgrunt
+Source Model Hash : b5705406a115aaa3636f6c42135922e1
+Source Model Date : 1553722532 (2019/03/27)
+
+Ported Model Name : 2d_miniblackgrunt_v1sc
+Ported Model Hash : 5c9949e523c2480db3cc202395bf3bb1
+Ported Model Date : 1752491316 (2025/07/14)

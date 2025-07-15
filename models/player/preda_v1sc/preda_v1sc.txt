@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : preda
+Source Model Hash : 99deb948706e1c37a53b885be822b690
+Source Model Date : 1591041272 (2020/06/01)
+
+Ported Model Name : preda_v1sc
+Ported Model Hash : a2b42e66da9418b334fa382fc34dddc1
+Ported Model Date : 1752492167 (2025/07/14)

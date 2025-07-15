@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gi_aether_vo
+Source Model Hash : 5093e16f3002ff58f6e93d0611809392
+Source Model Date : 1700062879 (2023/11/15)
+
+Ported Model Name : gi_aether_vo_v1sc
+Ported Model Hash : 92957201a4c5a67cb7e63608fd3962e3
+Ported Model Date : 1752491703 (2025/07/14)

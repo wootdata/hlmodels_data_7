@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nononjakuzurehatted
+Source Model Hash : 2f22f110783694152cfd4e505134ad0f
+Source Model Date : 1686805846 (2023/06/14)
+
+Ported Model Name : nononjakuzurehat_v1sc
+Ported Model Hash : fdb4ec56e2e8cbfdd0b11da5fac62a6e
+Ported Model Date : 1752492099 (2025/07/14)

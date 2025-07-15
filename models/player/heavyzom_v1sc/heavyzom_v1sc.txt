@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : heavyzom
+Source Model Hash : df22c394acd2bde3694d66257ff8b2db
+Source Model Date : 1445974196 (2015/10/27)
+
+Ported Model Name : heavyzom_v1sc
+Ported Model Hash : b3e439b37eb0cc8ea2676e339bddeed8
+Ported Model Date : 1752491779 (2025/07/14)

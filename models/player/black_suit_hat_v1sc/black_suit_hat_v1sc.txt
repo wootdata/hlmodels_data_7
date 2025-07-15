@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : black_suit_hat
+Source Model Hash : 6153b16bcb6e591f28245d0d379ee58e
+Source Model Date : 1267891956 (2010/03/06)
+
+Ported Model Name : black_suit_hat_v1sc
+Ported Model Hash : 7dcadc30d35781f9eb7f30dd195c1fb0
+Ported Model Date : 1752491435 (2025/07/14)

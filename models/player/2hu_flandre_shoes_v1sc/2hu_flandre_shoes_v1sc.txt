@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_flandre_shoes
+Source Model Hash : a0bb9a43a4b0d23db83420bc77f24b0a
+Source Model Date : 1522359160 (2018/03/29)
+
+Ported Model Name : 2hu_flandre_shoes_v1sc
+Ported Model Hash : 409d432a39d698cc29bdea252f15eb69
+Ported Model Date : 1752492437 (2025/07/14)

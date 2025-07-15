@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : brit
+Source Model Hash : f1cf3092402f56954fda41cfc6b159f1
+Source Model Date : 1389687244 (2014/01/14)
+
+Ported Model Name : brit_v1sc
+Ported Model Hash : 2a4299c5885a99b820588d0bd1eebe63
+Ported Model Date : 1752491447 (2025/07/14)

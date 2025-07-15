@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : luotianyi
+Source Model Hash : 1e658f6c887258a624f37d998bc58f89
+Source Model Date : 1560062285 (2019/06/08)
+
+Ported Model Name : luotianyi_v1sc
+Ported Model Hash : 40b7f1bca09bdd7b45ab95f7d5f9fcf4
+Ported Model Date : 1752491975 (2025/07/14)

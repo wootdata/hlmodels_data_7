@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : heisenberg
+Source Model Hash : b9628885d363ba7b1a4517a63860e200
+Source Model Date : 1645050850 (2022/02/16)
+
+Ported Model Name : heisenberg_v1sc
+Ported Model Hash : 1de16fb83516097e3b932a36cd47c3d4
+Ported Model Date : 1752491780 (2025/07/14)

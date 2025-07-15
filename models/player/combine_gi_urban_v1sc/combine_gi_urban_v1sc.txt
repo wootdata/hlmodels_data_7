@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : combine_soldier_urban
+Source Model Hash : 6d361491be7c0bc3b1875e2c6353b0a6
+Source Model Date : 1458231330 (2016/03/17)
+
+Ported Model Name : combine_gi_urban_v1sc
+Ported Model Hash : 9bd0ce57b0f9785faaf278ff5434ae6f
+Ported Model Date : 1752491519 (2025/07/14)

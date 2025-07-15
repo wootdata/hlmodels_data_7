@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : darkmiles
+Source Model Hash : 03ee0a43402cd621e53fc8ef9674d6a0
+Source Model Date : 1266842689 (2010/02/22)
+
+Ported Model Name : darkmiles_v1sc
+Ported Model Hash : ed0d8f7512f2ea39aec124341c5a599c
+Ported Model Date : 1752491579 (2025/07/14)

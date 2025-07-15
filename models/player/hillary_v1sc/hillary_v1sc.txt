@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hillary
+Source Model Hash : 72a6dd5ff3cbeb6ba3a945012a165c25
+Source Model Date : 1478177619 (2016/11/03)
+
+Ported Model Name : hillary_v1sc
+Ported Model Hash : 91691b1960f3458fee36de5079cb4c41
+Ported Model Date : 1752491794 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dgf_uscm_male01
+Source Model Hash : dc8577f650f85fc49fb84cc51e8217bd
+Source Model Date : 1391710789 (2014/02/06)
+
+Ported Model Name : dgf_uscm_male01_v1sc
+Ported Model Hash : 0b7daca2d640cc4572ee7cff36494098
+Ported Model Date : 1752491597 (2025/07/14)

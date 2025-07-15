@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : alex_clasica
+Source Model Hash : 536051b069c7f3c19404c1a9032929c8
+Source Model Date : 1669007825 (2022/11/20)
+
+Ported Model Name : alex_clasica_v1sc
+Ported Model Hash : fb57054ecddc1295cf77bb996cf02616
+Ported Model Date : 1752491352 (2025/07/14)

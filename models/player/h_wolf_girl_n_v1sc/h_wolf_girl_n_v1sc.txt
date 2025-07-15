@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : h_wolf_girl_n
+Source Model Hash : 3ab462193d82bc9ecad082de5f57c6c6
+Source Model Date : 1683383495 (2023/05/06)
+
+Ported Model Name : h_wolf_girl_n_v1sc
+Ported Model Hash : 9aec4f58901fc7467072f6b68a08ca3a
+Ported Model Date : 1752491842 (2025/07/14)

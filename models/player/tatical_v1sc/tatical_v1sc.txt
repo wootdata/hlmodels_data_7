@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tatical
+Source Model Hash : 5219cc69d6160986020294111afa0fb4
+Source Model Date : 1622529148 (2021/05/31)
+
+Ported Model Name : tatical_v1sc
+Ported Model Hash : 3b7a2c366c05ce795ce1689cf690eb36
+Ported Model Date : 1752492362 (2025/07/14)

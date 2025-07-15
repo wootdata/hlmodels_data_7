@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ts_laurence
+Source Model Hash : af7c9b104cf9c547fdcc6cba3ed244bd
+Source Model Date : 1527386267 (2018/05/26)
+
+Ported Model Name : ts_laurence_v1sc
+Ported Model Hash : b378345fde9275c3eaff1e5a3dfea3d5
+Ported Model Date : 1752492463 (2025/07/14)

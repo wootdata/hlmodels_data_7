@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_touhou_tenshi_v2
+Source Model Hash : 8ad7d5b3c93250fab806239e490bc548
+Source Model Date : 1542661146 (2018/11/19)
+
+Ported Model Name : 2d_touhou_tenshi_v2sc
+Ported Model Hash : 94ff37bd0249ac3647582c765ec2d263
+Ported Model Date : 1752491320 (2025/07/14)

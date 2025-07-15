@@ -1,0 +1,54 @@
+                         Bender.      
+
+My third model, I'm just starting to learn how to use MILKSHAPE.
+
+Bender is based around the Robot from Futurama.
+
+
+    INSTALLATION:  UNZIP INTO  halflife\valve\models\player\Bender  folder
+
+
+
+Feel free to distribute this .zip along with the README.txt
+
+         FYA    MARQUIS   for skins (m.haly@cwcom.net) 26/10/99
+
+Visit my skin site for some of the best skins with load of pictures of them in action.
+
+         http://www.hlskins.free-online.co.uk/
+
+
+------------
+jan_2009.txt
+------------
+Jan, 2009
+
+
+All credit for the model itself goes to the original creator (see readme.txt) ;)
+
+I converted to SC4.0b animations and adjusted some things to make it look more like Bender!
+I also updated the preview image. 
+
+
+bender_ORIG.bmp: I renamed the original preview image that came with the model but left the image itself unmodified.
+bender_ORIG.mdl: Original model w/original HL:DM animations and original texture.
+readme.txt: original "readme" that came with the model (unmodified).
+
+
+
+-Marb750
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bender
+Source Model Hash : 27dcc12f10e4c49e076b49fa1171ca58
+Source Model Date : 1457125593 (2016/03/04)
+
+Ported Model Name : bender_v1sc
+Ported Model Hash : c16cc2a74e96296ebf7289be744d2ea8
+Ported Model Date : 1752491424 (2025/07/14)

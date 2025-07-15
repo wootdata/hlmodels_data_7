@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : csx_guerilla
+Source Model Hash : 5579515dd9399b4509162932f11d1605
+Source Model Date : 1617899996 (2021/04/08)
+
+Ported Model Name : csx_guerilla_v1sc
+Ported Model Hash : a32dceb8af1919e0689dff41460f8857
+Ported Model Date : 1752491562 (2025/07/14)

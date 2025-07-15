@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sovarmymoto_1970cc
+Source Model Hash : dd690cf2a48b0a0b007a28f229c35a1d
+Source Model Date : 1530993843 (2018/07/07)
+
+Ported Model Name : sovmoto_1970cc_v1sc
+Ported Model Hash : 63396757a0d6de4d5b2c52a0a55a10e9
+Ported Model Date : 1752492298 (2025/07/14)

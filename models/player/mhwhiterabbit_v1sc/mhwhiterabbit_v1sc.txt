@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mhwhiterabbit
+Source Model Hash : a9705122c916d7d9b0c9291f9574024f
+Source Model Date : 1629409809 (2021/08/19)
+
+Ported Model Name : mhwhiterabbit_v1sc
+Ported Model Hash : 88d69bb1f09e30b7737d1685ccd9559d
+Ported Model Date : 1752492014 (2025/07/14)

@@ -1,0 +1,32 @@
+======================================================================================
+AHL Official Trenchcoat Player Model
+======================================================================================
+
+Stylez - AHL Trenchcoat player model, clanmodel of [A$Z]
+
+
+Model	 :	Mel			[Mel@havenofrags.com]
+Animation:	[QUAD]Duncan & Mel	[duncan@quadclan.net] & [Mel@havenofrags.com]
+Skin	 :	Svugg & Mel		[Svugg@havenofrags.com] & [Mel@havenofrags.com]
+
+
+======================================================================================
+All material in this zipfile is (c)copyright in 2000 by their respective owners.
+Any use of this material outside of Action Half-Life without the written permission
+of the respective copyright owners is strictly prohibited.
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stylez
+Source Model Hash : 06a47bc9b96082be7c7c2606c7e73fdf
+Source Model Date : 1256557074 (2009/10/26)
+
+Ported Model Name : stylez_v1sc
+Ported Model Hash : 13903b799fb0a586fcff36334e04f0ca
+Ported Model Date : 1752492349 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : noire_school
+Source Model Hash : e97034f8937ed8f59828d9cc9a27c0cc
+Source Model Date : 1546433588 (2019/01/02)
+
+Ported Model Name : noire_school_v1sc
+Ported Model Hash : a82768ab8847d0efe080f1525d70e16c
+Ported Model Date : 1752492098 (2025/07/14)

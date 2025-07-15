@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : km_karenkujo_altr1
+Source Model Hash : 55299da584f350edce3601b7fb51b5a2
+Source Model Date : 1750190497 (2025/06/17)
+
+Ported Model Name : km_karenkujo2_v1sc
+Ported Model Hash : 8810533d78f0bbec6f66d9ca081441be
+Ported Model Date : 1752491903 (2025/07/14)

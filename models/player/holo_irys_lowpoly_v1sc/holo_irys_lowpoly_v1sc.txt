@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : holo_irys_lowpoly
+Source Model Hash : eee0442f40159004483b73bafbb3ecde
+Source Model Date : 1668193030 (2022/11/11)
+
+Ported Model Name : holo_irys_lowpoly_v1sc
+Ported Model Hash : d1a784027fce6e2638aab4e32c8c9bf1
+Ported Model Date : 1752491825 (2025/07/14)

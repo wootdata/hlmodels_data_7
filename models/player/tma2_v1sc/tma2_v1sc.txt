@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tma2
+Source Model Hash : 5188d45eec3c3824812e65c502561e21
+Source Model Date : 1565557602 (2019/08/11)
+
+Ported Model Name : tma2_v1sc
+Ported Model Hash : c30866fc8a96576103194bda91249a46
+Ported Model Date : 1752492423 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cocacolaman
+Source Model Hash : 6ffc8ee9fc29b45dfadfbc0699a4103c
+Source Model Date : 1525564208 (2018/05/05)
+
+Ported Model Name : cocacolaman_v1sc
+Ported Model Hash : c406d33ce09e43f30aa3aea86c79f93c
+Ported Model Date : 1752491491 (2025/07/14)

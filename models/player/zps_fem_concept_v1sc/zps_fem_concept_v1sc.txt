@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zps_fem_conceptart
+Source Model Hash : fa673690bb8c9909a18088dcbc4beb61
+Source Model Date : 1263981554 (2010/01/20)
+
+Ported Model Name : zps_fem_concept_v1sc
+Ported Model Hash : 943dfed8c86ab9b55e2d1234d78de5f4
+Ported Model Date : 1752492534 (2025/07/14)

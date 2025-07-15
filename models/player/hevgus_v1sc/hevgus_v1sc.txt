@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hevgus
+Source Model Hash : 02cf044056fe28355c1343dd852e259c
+Source Model Date : 1636824247 (2021/11/13)
+
+Ported Model Name : hevgus_v1sc
+Ported Model Hash : c515372f8386e310eaf7eef3680450b5
+Ported Model Date : 1752491786 (2025/07/14)

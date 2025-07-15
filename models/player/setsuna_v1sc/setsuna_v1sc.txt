@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : setsuna
+Source Model Hash : 28faf961124368594ef9cc7a5e9e8997
+Source Model Date : 1269850764 (2010/03/29)
+
+Ported Model Name : setsuna_v1sc
+Ported Model Hash : 03694bb4f6fc34afa8a97cdb2c7685be
+Ported Model Date : 1752492259 (2025/07/14)

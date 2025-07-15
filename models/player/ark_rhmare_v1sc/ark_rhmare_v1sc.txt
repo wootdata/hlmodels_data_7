@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ark_rhmare
+Source Model Hash : e364fc59d595a8109175e2a4b529c9ca
+Source Model Date : 1674584089 (2023/01/24)
+
+Ported Model Name : ark_rhmare_v1sc
+Ported Model Hash : 7b8d4984eaeefb1b4408ec7306f62cbd
+Ported Model Date : 1752491375 (2025/07/14)

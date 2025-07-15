@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ba_hina_b8
+Source Model Hash : 60389f8d4689e00281f4b8357b892e2c
+Source Model Date : 1723381821 (2024/08/11)
+
+Ported Model Name : ba_hina_b8_v1sc
+Ported Model Hash : d6e75bb94c61f7e35a918925ced8c243
+Ported Model Date : 1752491409 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_sakuya_gothic2
+Source Model Hash : 0f3780228f320960dcfe357b02348ed8
+Source Model Date : 1526652494 (2018/05/18)
+
+Ported Model Name : 2hu_sakuya_goth2_v1sc
+Ported Model Hash : 2be4748e39ac80d519ea38f9bb4e9e6c
+Ported Model Date : 1752492445 (2025/07/14)

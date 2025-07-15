@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hyperchrome
+Source Model Hash : c9cd043bb9b5b1eda27cb8d9df9faf53
+Source Model Date : 1428971657 (2015/04/13)
+
+Ported Model Name : hyperchrome_v1sc
+Ported Model Hash : 9093ff28a0bc43a50e587419b79c80ab
+Ported Model Date : 1752491838 (2025/07/14)

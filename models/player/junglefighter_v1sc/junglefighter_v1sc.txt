@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : junglefighter
+Source Model Hash : a1ea4d994b8e35b97ef9525b5756c0df
+Source Model Date : 1263933455 (2010/01/19)
+
+Ported Model Name : junglefighter_v1sc
+Ported Model Hash : 6d76e5007315ed7444e14bf8342afbca
+Ported Model Date : 1752491866 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gang_ballas1
+Source Model Hash : 2cde7b426224adef6d320a5abe078ec3
+Source Model Date : 1475621968 (2016/10/04)
+
+Ported Model Name : gang_ballas1_v1sc
+Ported Model Hash : a4e098f5588abbf69fce9cedec25ca2b
+Ported Model Date : 1752491670 (2025/07/14)

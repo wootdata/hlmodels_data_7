@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gargoyle
+Source Model Hash : 2b2d673811164fd939139d9f2ff4ec71
+Source Model Date : 1428768353 (2015/04/11)
+
+Ported Model Name : gargoyle_v1sc
+Ported Model Hash : da1696b404def985333a4e2e5ce46ac3
+Ported Model Date : 1752491672 (2025/07/14)

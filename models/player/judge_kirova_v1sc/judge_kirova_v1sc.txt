@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : judge_kirova
+Source Model Hash : c1d4cb82532d46c397185aa419bf89ec
+Source Model Date : 1324985054 (2011/12/27)
+
+Ported Model Name : judge_kirova_v1sc
+Ported Model Hash : eb33caf98c17c4068e8d6d9026a265e1
+Ported Model Date : 1752491866 (2025/07/14)

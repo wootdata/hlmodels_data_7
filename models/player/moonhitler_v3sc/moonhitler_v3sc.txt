@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : moonhitler_v3
+Source Model Hash : 41481a0667ce6238c24b3f2a1feaddd3
+Source Model Date : 1643063806 (2022/01/24)
+
+Ported Model Name : moonhitler_v3sc
+Ported Model Hash : 47ba874be2ad173036ef1f833afc109e
+Ported Model Date : 1752492040 (2025/07/14)
