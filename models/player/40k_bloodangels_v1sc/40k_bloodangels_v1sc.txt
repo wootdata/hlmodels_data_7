@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 40k_bloodangels
+Source Model Hash : 85703c3259844b637b900c3bb162f881
+Source Model Date : 1740306323 (2025/02/23)
+
+Ported Model Name : 40k_bloodangels_v1sc
+Ported Model Hash : a14c54b313c788dfc22b88c3f4370b5b
+Ported Model Date : 1758225720 (2025/09/18)
