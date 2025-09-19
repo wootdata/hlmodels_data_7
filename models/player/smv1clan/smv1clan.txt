@@ -1,0 +1,30 @@
+released 3/26/99 - Version 1.01 (fixed palette problem)
+
+Model name: SMV1 Clan Skin
+
+Author: PhantoM [ nsi@artmaze.com ]
+
+Model homepage: http://www.
+
+Installation: Make a folder in Sierra\Half-life\valve\models\player named "SMV1Clan" (without quotes). Copy all files contained in this Zip into it (Silencer.mdl, Silencer.bmp, Silencer.txt)
+
+------------------------------------------------------------
+Construction
+	
+	Poly count: 568 tris
+
+	Skins: 1 DM_base with team coloring
+
+	Animation: Valve animations
+
+Programs used
+
+	Basic mesh: Lightwave 5.6
+
+	Skinning, boning and mesh detailing: 3D Studio Max R2.5
+
+	Texture: Photoshop 5.0, Debabelizer Pro 3.0
+	
+	Compiling: StudioMDL
+	
+	Previewing: MDLviewe.exe 1.11 by Valve / Otis

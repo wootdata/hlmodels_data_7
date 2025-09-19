@@ -1,0 +1,17 @@
+Skinner: SlimReapeR
+Skin Name: The FurBall Project Clan
+Model Used: Blossom
+
+
+Installation of Plugin
+This skin is only to be used by members of the FurBall Project Clan. Install this skin to 
+see them play!
+
+Create a folder called clanTFP in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+
+

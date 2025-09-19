@@ -1,0 +1,4 @@
+Model: Spawn3D
+Author: [halo]Spawn3D
+Released: 05/17/01
+Size: 192kb

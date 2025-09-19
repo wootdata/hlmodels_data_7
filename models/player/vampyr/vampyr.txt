@@ -1,0 +1,31 @@
+Drulac von Dracul skin and logo for Half-Life [27 May 1999]
+
+Here is the first vampire for Half-Life. Soon the legions of the un-dead will 
+control the Internet.[There are no stakes or pieces of garlic in Half-Life
+so you need other kill to kill him!]
+This model is based on the Warhammer model "Count Carstein" by Citadel 
+miniatures. (check out Games-workshop.com)
+I have used some parts of the model from the Electronic Arts game Dark Omen.
+(for more info Darkomen.com) 
+
+Unpack the Vampyr.zip to where you have drive where you have Half-life installed.
+i.e. if it's  C:\Half-life unpack the zip to C:\Half-life  :)
+
+Files included are 
+logos:	Vamp.bmp 
+(place this in your Half-Life/logos map)
+Models:	Volkmar.bmp, Volkmar.mdl and this text.
+(place these in your Half-life/Valve/player/models map)
+
+The .mdl file is the model you will see during play.  
+The .bmp file is necessary for the model to be selectable via the launcher interface.  
+For a player model to be visible to all clients playing, it must be installed on
+the server for it to propogate to all playing clients.
+
+When a model is downloaded from the game server, 
+it does not download the .bmp file necessary for selecting the model in the interface: 
+models must be deliberately installed by the player.
+
+Agent_Orange
+
+For questions or ideas send your mail to: AgentOrange@freemail.nl  
