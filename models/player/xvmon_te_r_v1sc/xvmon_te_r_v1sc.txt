@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : xvmon_te_r
+Source Model Hash : db278a84cbfe026dc982c8745b43408b
+Source Model Date : 1770911625 (2026/02/12)
+
+Ported Model Name : xvmon_te_r_v1sc
+Ported Model Hash : 52783e073cebd288b2efe41c407518f5
+Ported Model Date : 1780823054 (2026/06/07)
